@@ -17,4 +17,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## Desain UI/UX (Figma)
-* Link Figma: [Klik di sini untuk melihat desain Figma](https://www.figma.com/design/bgvHfsGKa7gHnvYG1Agtqw/BU-YEYE-WIREFRAME-2?node-id=0-1&t=ug7juj1lvmv4Pj25-1)
+Tautan desain Wireframe & High-Fidelity dapat diakses melalui:
+[Link Desain Figma Smart-Cart App](https://www.figma.com/design/bgvHfsGKa7gHnvYG1Agtqw/BU-YEYE-WIREFRAME-2?node-id=0-1&t=2XP5CgHM20bZNp3q-1)
