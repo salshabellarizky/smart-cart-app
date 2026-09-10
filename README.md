@@ -18,4 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Desain UI/UX (Figma)
 Tautan desain Wireframe & High-Fidelity dapat diakses melalui:
-[Link Desain Figma Smart-Cart App](https://www.figma.com/design/bgvHfsGKa7gHnvYG1Agtqw/BU-YEYE-WIREFRAME-2?node-id=0-1&t=yw7j0TKPOgWDhHnC-1)
+[Link Desain Figma Smart-Cart App](https://www.figma.com/design/bgvHfsGKa7gHnvYG1Agtqw/WIREFRAME-DAN-HIGH-FIDELITY-DESIGN-SMART-CART?node-id=0-1&t=tTyLQfb5FkB47amv-1)
